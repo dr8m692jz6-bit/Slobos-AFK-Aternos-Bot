@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ITIHAZ.aternos.me",
+    "port": 43266,
     "version": "",
     "try-creative": false
   },
@@ -73,8 +73,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.gg/BJU3HRkJVJ",
     "events": {
       "connect": true,
       "disconnect": true,
